@@ -19,22 +19,12 @@ QuotesOfForest(名言の森)
 
 # Usage
  
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
+現在はサーバに接続していないため使用できない。
  
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
-```
- 
-# Note
- 
-注意点などがあれば書く
  
 # Author
  
 作成情報を列挙する
  
-* 作成者
-* 所属
-* E-mail
+* 東 佳隆
+* yoshitakapa913@gmail.com
