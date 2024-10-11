@@ -13,10 +13,13 @@ QuotesOfForest(名言の森)
  
 # Requirement
  
-"hoge"を動かすのに必要なライブラリなどを列挙する
- 
-* huga 3.5.2
-* hogehuga 1.0.2
+* Spring Boot
+* Spring Security
+* Gradle
+* Lombok
+* My Batis
+* Thymeleaf
+* PostgreSQL
  
 # Installation
  
