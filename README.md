@@ -9,7 +9,8 @@ QuotesOfForest(名言の森)
  AIによるカテゴリの判別機能　この機能はユーザが名言の登録をする際にカテゴリの判別に悩んだ時AIが代わりにカテゴリを選択してくれる機能です。OpenAIを使用しておりtemparaturパラメータを0に設定することで返答の振れ幅を最小限に抑えて安定したカテゴリ判別機能を提供することに成功しました。
 # DEMO
  画面草案
-![スクリーンショット (74)](https://github.com/user-attachments/assets/13f22254-fb06-4ccb-af94-5f4bbcd1d1af)
+ タイトル
+<img src="https://github.com/user-attachments/assets/13f22254-fb06-4ccb-af94-5f4bbcd1d1af" width="100">
  
 # Requirement
  
