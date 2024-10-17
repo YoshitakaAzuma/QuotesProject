@@ -11,6 +11,9 @@ QuotesOfForest(名言の森)
  画面草案<br>
  タイトル<br>
 <img src="https://github.com/user-attachments/assets/13f22254-fb06-4ccb-af94-5f4bbcd1d1af" width="600">
+プロフィール画面<br>
+<img src="https://github.com/user-attachments/assets/52645cea-2320-4178-a464-23c14930a36b" width="600">
+
  
 # Requirement
  
