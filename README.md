@@ -10,7 +10,7 @@ QuotesOfForest(名言の森)
 # DEMO
  画面草案
  タイトル
-<img src="https://github.com/user-attachments/assets/13f22254-fb06-4ccb-af94-5f4bbcd1d1af" width="100">
+<img src="https://github.com/user-attachments/assets/13f22254-fb06-4ccb-af94-5f4bbcd1d1af" width="600">
  
 # Requirement
  
